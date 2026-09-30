@@ -33,3 +33,5 @@ The repository is organized into folders corresponding to the different parts of
 ## Access to CESGA
 
 As part of this course and the Master's programme, you are required to create a user account at the **Galician Supercomputing Center (CESGA)**. Please register through the [CESGA User Registration Portal](https://altausuarios.cesga.es/) using your institutional details and email address. Once your account has been activated, you will be able to access CESGA's high-performance computing (HPC) resources, which will be used for practical activities in the course, as well as for your Master's thesis (TFM).
+
+While waiting for your CESGA account to be activated, it is recommended that you bring your own laptop with **Ubuntu for Windows (WSL)** installed, as the practical activities will require access to a Linux environment.
