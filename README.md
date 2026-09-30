@@ -30,6 +30,6 @@ The repository is organized into folders corresponding to the different parts of
 - **Thursdays:** 09:00–11:00
 - **Classroom:** **Computer Room 3.30**, 3rd floor, Faculty of Chemistry
 
----
+## Access to CESGA
 
-*Better tools · Better simulations · A deeper understanding*
+As part of this course and the Master's programme, you are required to create a user account at the Galician Supercomputing Center (CESGA). Please register through the CESGA User Registration Portal using your institutional details and email address. Once your account has been activated, you will be able to access CESGA's high-performance computing (HPC) resources, which will be used for practical activities in the course, as well as for your Master's thesis (TFM).
